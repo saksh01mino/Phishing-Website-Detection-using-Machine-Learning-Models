@@ -4,5 +4,7 @@ ML algorithms have been an effective process for recognizing of data and its tra
 
 # Data Set
 To evaluate the detection approach, the phishing  dataset datset.csv from an online  website (Kaggle) is used. The dataset consisted of 31 columns and 11055 URLs (4898 legitimate, 6157 phishing). The value presented in each attribute was -1, 0, and 1. -1 represented legitimate, 0 represented suspicious and 1 represented phishing. The dataset is split into 60-40 ratio for the training and the testing respectively, so that the machine learning algorithms learn from the data and make predictions. 
+
 The dataset malicious_phish.csv is also taken from Kaggle which consists of 651,191 URLs, out of which 428103 benign or safe URLs, 96457 defacement URLs, 94111 phishing URLs, and 32520 malware URLs. 
-The third dataset feature.csv hs spam dataset
+
+The third dataset feature.csv has 
