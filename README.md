@@ -7,4 +7,8 @@ To evaluate the detection approach, the phishing  dataset datset.csv from an onl
 
 The dataset malicious_phish.csv is also taken from Kaggle which consists of 651,191 URLs, out of which 428103 benign or safe URLs, 96457 defacement URLs, 94111 phishing URLs, and 32520 malware URLs. 
 
-The third dataset feature.csv has 
+The third dataset feature.csv has benign, defacement, malware, phishing, spam files which has features like body length, bscr, dse, entropy, hasHttp, hasHttps and others
+
+# Results
+
+The efficacy of machine learning algorithms in detecting phishing websites is evaluated in this project. Based on the results, it is possible to infer that the Random Forest Classifier delivers the best and greatest accuracy (96.834%). Collaborative algorithms, on the other hand, have been demonstrated to be beneficial since they are fast and perform well, employ several classifiers for prediction, and produce better results
