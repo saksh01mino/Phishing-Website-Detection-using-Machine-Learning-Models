@@ -11,4 +11,4 @@ The third dataset feature.csv has benign, defacement, malware, phishing, spam fi
 
 # Results
 
-The efficacy of machine learning algorithms in detecting phishing websites is evaluated in this project. Based on the results, it is possible to infer that the Random Forest Classifier delivers the best and greatest accuracy (96.834%). Collaborative algorithms, on the other hand, have been demonstrated to be beneficial since they are fast and perform well, employ several classifiers for prediction, and produce better results
+The efficacy of machine learning algorithms in detecting phishing websites is evaluated in this project. Based on the results, it is possible to infer that the Random Forest Classifier delivers the best and greatest accuracy (96.834%). Collaborative algorithms, on the other hand, have been demonstrated to be beneficial since they are fast and perform well, employ several classifiers for prediction, and produce better results.
